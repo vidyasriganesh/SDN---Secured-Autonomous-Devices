@@ -1,0 +1,62 @@
+# Large datasets (>100MB, use Git LFS or external hosting)
+datasets/*.csv
+datasets/*.zip
+datasets/*.pcap
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+cloud_env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Metadata history (large, regenerated at runtime)
+metadata/metadata_history.json
+
+# Buffered packets
+2*.json
+
+# Trained models (large binary files)
+models/*.pth
+models/*.pkl
+backup/models/
+
+# Temporary/backup files
+*.bak
+*.bak_*
+*.BROKEN_*
+*.WORKING_*
+*_backup.py
+*_backup/
+emergency_backup/
+metadata_backup/
+
+# Environment / secrets (if added later)
+.env
+.env.*
+
+# Streamlit
+.streamlit/

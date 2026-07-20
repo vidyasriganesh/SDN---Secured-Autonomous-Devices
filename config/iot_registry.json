@@ -1,0 +1,31 @@
+{
+    "00:00:00:00:00:01": {
+        "device": "ATM_1",
+        "owner": "Bank_A",
+        "status": "ACTIVE"
+    },
+
+    "00:00:00:00:00:02": {
+        "device": "ATM_2",
+        "owner": "Bank_A",
+        "status": "ACTIVE"
+    },
+
+    "00:00:00:00:00:03": {
+        "device": "ATM_3",
+        "owner": "Bank_B",
+        "status": "ACTIVE"
+    },
+
+    "00:00:00:00:00:04": {
+        "device": "ATM_4",
+        "owner": "Bank_B",
+        "status": "ACTIVE"
+    },
+
+    "00:00:00:00:00:05": {
+        "device": "ATM_5",
+        "owner": "Bank_C",
+        "status": "ACTIVE"
+    }
+}

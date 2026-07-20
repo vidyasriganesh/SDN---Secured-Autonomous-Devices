@@ -1,0 +1,8 @@
+{
+    "ganache_url": "http://127.0.0.1:8545",
+    "admin_account": "0x06c55070F9803FA05052f94540e5d7a3A6FcA3fd",
+    "admin_private_key": "0x616922128b677d19882ca2e164d307ad07fe39a5ba3890666eac01d615290fc5",
+    "sdn_account": "0x7D347071f256471F1fFE901b01d24cfae5F914A6",
+    "trust_manager_address": "0xC272229B09097f76ca6db66Fe864d66b5d5CD10c",
+    "sdn_verifier_address": "0x6B741EDe8e1400c0f39c0Bcf2aEEc39793C3555d"
+}
