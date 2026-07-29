@@ -375,7 +375,7 @@ Auto-refreshes every 3 seconds.
 
 ## License
 
-This project is for academic/research purposes.
+This project is for academic/research purposes..
 
 ## Acknowledgments
 
