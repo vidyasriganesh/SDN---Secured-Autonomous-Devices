@@ -1,4 +1,4 @@
-# Blockchain-Secured Federated Learning IDS for SDN-based IoT Networks
+ # Blockchain-Secured Federated Learning IDS for SDN-based IoT Networks
 
 A real-time intrusion detection system that integrates **Software Defined Networking (SDN)**, **Blockchain**, **Federated Learning**, and **Deep Learning** to secure IoT networks. The system uses an LSTM model trained on the CICIDS2017 dataset to classify network traffic, immutably logs security decisions on an Ethereum blockchain, and supports collaborative model training across distributed IoT nodes via federated learning with anti-poisoning defenses.
 
