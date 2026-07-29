@@ -161,7 +161,7 @@ Sigmoid → probability ≥ 0.5 → ATTACK / NORMAL
 | 7 | Fwd Packet Length Mean | 15 | Average Packet Size |
 | 8 | Flow Bytes/s | 16 | Subflow Fwd Bytes |
 
-## Prerequisites
+ ## Prerequisites
 
 - **Python 3.12+**
 - **Ganache** (local Ethereum blockchain) — `npm install -g ganache`
@@ -169,7 +169,7 @@ Sigmoid → probability ≥ 0.5 → ATTACK / NORMAL
 - **Mininet** — `sudo apt install mininet`
 - **hping3** — `sudo apt install hping3`
 
-### Python Dependencies
+ ### Python Dependencies
 
 ```bash
 pip install torch scikit-learn imbalanced-learn pandas numpy \
