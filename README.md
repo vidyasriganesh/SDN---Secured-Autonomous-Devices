@@ -67,6 +67,19 @@ A real-time intrusion detection system that integrates **Software Defined Networ
 - **Quarantine System**: Automatic IP blocking for detected attacks
 - **Multi-bank ATM Scenario**: 5 IoT devices across 3 banks with per-device trust verification
 
+## Project Demonstration
+
+A complete demonstration of the SDN–Blockchain–Federated Learning IDS, showcasing:
+
+- Real-time packet classification
+- Federated learning workflow
+- Blockchain verification
+- Attack detection and quarantine
+- Streamlit dashboard
+- End-to-end system execution
+
+  Link: https://drive.google.com/drive/folders/1N_Qb0pTMcEpfqu4nKFt8wnJHh0Sq-gZb?usp=sharing
+  
 ## Project Structure
 
 ```
